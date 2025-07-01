@@ -4,7 +4,6 @@ setup(
     name="HelloAgent",
     version="1.0.0",
     packages=find_packages(),
-    py_modules=["main"],
     install_requires=[
     "click>=8.2.1",
     "duckdb>=1.3.1",
