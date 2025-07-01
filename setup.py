@@ -21,7 +21,7 @@ setup(
 ],
     entry_points={
         'console_scripts': [
-            'HelloAgent=main:main',
+            'helloagent=main:main',
         ],
     },
     author="Ritwik Singh",
