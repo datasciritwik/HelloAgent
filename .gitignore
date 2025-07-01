@@ -10,3 +10,5 @@ wheels/
 .venv
 .env
 conversations.db
+pyproject.toml
+uv.lock
