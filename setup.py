@@ -20,9 +20,7 @@ setup(
     "setuptools>=80.9.0",
 ],
     entry_points={
-        'console_scripts': [
-            'HelloAgent=main:main',
-        ],
+        'console_scripts': ['HelloAgent=hello_agent.main:main'],
     },
     author="Ritwik Singh",
     author_email="officialritwik098@gmail.com",
